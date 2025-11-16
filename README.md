@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Lakna30/Lakna30/blob/main/Web%20Development.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Lakna30/Lakna30/blob/main/WebDev.gif?raw=true" width = 250px></picture>
 
 <br><br>
 I am a Software Engineering undergraduate at SLIIT, experienced in UI/UX design, full-stack web, and mobile app development. I am seeking an internship to apply my technical skills and gain professional experience.
