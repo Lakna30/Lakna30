@@ -16,7 +16,7 @@ I am a Software Engineering undergraduate at SLIIT, experienced in UI/UX design,
 - 🌱 I’m currently learning **WordPress and Flutter**
 
 <br>
-
+<br>
 <br>
 <p align="center">
   <!--- stats (start) -->
