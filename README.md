@@ -24,7 +24,7 @@ I am a Software Engineering undergraduate at SLIIT, experienced in UI/UX design,
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Lakna30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakna30&theme=dark&hide_border=false" /> 
+  <img align="center" src="https://streak-stats.demolab.com?user=Lakna30&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
