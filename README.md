@@ -22,7 +22,7 @@ I am a Software Engineering undergraduate at SLIIT, experienced in UI/UX design,
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Lakna30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakna30&theme=github" />
   <br></br>
   <img align="center" src="https://streak-stats.demolab.com?user=Lakna30&theme=dark&hide_border=false" /> 
 </td>
